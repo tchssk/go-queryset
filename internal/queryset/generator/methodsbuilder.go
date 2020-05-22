@@ -1,9 +1,9 @@
 package generator
 
 import (
-	"github.com/jirfag/go-queryset/internal/parser"
-	"github.com/jirfag/go-queryset/internal/queryset/field"
-	"github.com/jirfag/go-queryset/internal/queryset/methods"
+	"github.com/tchssk/go-queryset/internal/parser"
+	"github.com/tchssk/go-queryset/internal/queryset/field"
+	"github.com/tchssk/go-queryset/internal/queryset/methods"
 )
 
 type methodsBuilder struct {

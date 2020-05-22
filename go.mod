@@ -1,4 +1,4 @@
-module github.com/jirfag/go-queryset
+module github.com/tchssk/go-queryset
 
 require (
 	cloud.google.com/go v0.37.0 // indirect
